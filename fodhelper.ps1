@@ -2,7 +2,7 @@
  
 Param (    
  
- [String]$program = "cmd /c start powershell.exe" #default
+ [String]$program = "cmd /c start powershell.exe" #default, can be changed to execute any binary file with high privileges
  
       )
  
