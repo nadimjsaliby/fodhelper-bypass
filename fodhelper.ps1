@@ -1,4 +1,10 @@
-﻿function FodhelperBypass(){ 
+#################################################################
+#                    AUTHOR: NADIM SALIBY                       #
+#                EMAIL: nadimjsaliby@gmail.com                  #
+#SUBJECT: Automated script to get an admin shell using fodhelper#
+#################################################################
+
+function FodhelperBypass(){ 
  
 Param (    
  
